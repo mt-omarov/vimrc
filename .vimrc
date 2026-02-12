@@ -62,7 +62,7 @@ set guioptions=
 set showtabline=2
 set nowrap
 set cursorline
-set title
+set notitle
 set hlsearch                "Highlight all search results
 set smartcase               "Enable smart-case search
 set ignorecase              "Always case-insensitive
